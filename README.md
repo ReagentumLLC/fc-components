@@ -1,2 +1,2 @@
-# fc-components
-Front Core UI Components
+# rui-components
+Reagentum UI Components
